@@ -22,6 +22,7 @@ server.xml看tomcat架构：
 tomcat体系图：
 
 ![image](https://github.com/Mitnick5194/tomcat-src/blob/master/images/tomcat_struct.jpg)
+![image](https://github.com/Mitnick5194/tomcat-src/blob/master/images/tomcat_struct.jpg)
 
 container组件图：
 
